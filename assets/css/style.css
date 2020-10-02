@@ -7,7 +7,8 @@
 }
 
 
-/*GENERAL STYLES*/
+/*GENERAL STYLES
+sets a background color and font size for paragraph text*/
 
 body {
     background-color: #d9dcd6;
@@ -18,7 +19,8 @@ p {
 }
 
 
-/*HEADER*/
+/*HEADER
+formats logo in header*/
 
 .header {
     padding: 20px;
@@ -37,7 +39,8 @@ p {
 }
 
 
-/*NAVIGATION*/
+/*NAVIGATION
+formats nav bar in header*/
 
 .header nav {
     padding-top: 15px;
@@ -62,7 +65,8 @@ a {
 }
 
 
-/*FIGURE*/
+/*FIGURE
+formats that large image of the marketing meeting in the center of the page*/
 
 .backgroundimage {
     height: 800px;
@@ -74,7 +78,8 @@ a {
 }
 
 
-/*MAIN*/
+/*MAIN
+formats main body of text*/
 
 .content {
     width: 75%;
@@ -83,7 +88,8 @@ a {
 }
 
 
-/*ALIGNMENT*/
+/*ALIGNMENT
+classes for aligning sections on the right or left*/
 
 .float-left {
     float: left;
@@ -96,7 +102,8 @@ a {
 }
 
 
-/*MAIN SECTIONS*/
+/*MAIN SECTIONS
+formats text in main text sections*/
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -137,7 +144,8 @@ a {
 }
 
 
-/*ASIDE SECTIONS*/
+/*ASIDE SECTIONS
+formats margins and color of aside text*/
 
 .benefit-lead,
 .benefit-brand,
